@@ -1,0 +1,11 @@
+Gender (Mother),Age,Pregnancy_Complications,Admit_date,Delivery_Date,Discharge_date,TypeOfDelivery,Neonatal_Complications,Mother_Treatment_Given,Baby_Treatment_Given,DaysOfStay_Mother,DaysOfStay_Baby,Mother_DischargeStatus,Baby_DischargeStatus
+Female,45,Preterm Labor,2023-02-03,2023-06-25,2023-03-24,C-Section,Respiratory Distress,Oxytocin,None,6,4,Transferred,Healthy
+Female,45,Preterm Labor,2023-05-18,2023-11-09,2023-11-30,C-Section,Neonatal Jaundice,Epidural,Oxygen Therapy,6,5,Recovered,Healthy
+Female,26,Gestational Diabetes,2023-01-07,2023-03-17,2023-03-20,Assisted Delivery,Prematurity,Epidural,None,5,5,Deceased,Transferred to NICU
+Female,25,Preeclampsia,2023-01-31,2023-06-20,2023-11-17,C-Section,Neonatal Jaundice,Oxytocin,NICU Admission,2,10,Complicated Recovery,Transferred to NICU
+Female,39,Preeclampsia,2023-03-03,2023-01-20,2023-06-04,Assisted Delivery,Prematurity,None,Oxygen Therapy,7,3,Complicated Recovery,Healthy
+Female,40,Preterm Labor,2023-02-04,2023-11-26,2023-08-27,C-Section,None,None,NICU Admission,3,8,Recovered,Deceased
+Female,19,Placenta Previa,2023-03-26,2023-04-13,2023-03-18,C-Section,Prematurity,None,Oxygen Therapy,2,5,Recovered,Healthy
+Female,29,Gestational Diabetes,2023-04-17,2023-10-31,2023-01-22,C-Section,Prematurity,Epidural,None,7,7,Transferred,Healthy
+Female,29,Gestational Diabetes,2023-01-23,2023-12-10,2023-06-06,Assisted Delivery,Neonatal Jaundice,Epidural,Phototherapy,3,7,Complicated Recovery,Healthy
+Female,18,None,2023-04-12,2023-11-08,2023-02-23,C-Section,Prematurity,Epidural,None,2,2,Transferred,Transferred to NICU
